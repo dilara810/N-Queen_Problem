@@ -1,2 +1,1 @@
-# N-Queen_Problem
-OOP lecture hw5
+the solution is in the NPuzlleRecursiveSolver.java file
